@@ -1,8 +1,8 @@
 ## 👩‍💻 Geovanna de Oliveira Weber
 
-Olá! Sou a Geovanna, desenvolvedora full-stack com bacharelado em Sistemas de Informação, apaixonada por resolver problemas com código e criar soluções que realmente fazem a diferença. Tenho experiência prática em todas as etapas do desenvolvimento de software, desde o back-end até interfaces modernas e responsivas.
+Olá! Sou a Geovanna, desenvolvedora full-stack com bacharelado em Sistemas de Informação, apaixonada por resolver problemas com código e criar soluções que fazem a diferença. Atuo em todas as etapas do desenvolvimento de software — do back-end ao front-end — com foco em performance, escalabilidade e código limpo.
 
-Atualmente, trabalho com tecnologias como C#, ASP.NET, React, TypeScript e Firebird, sempre buscando escrever código limpo, performático e escalável.
+Atualmente, trabalho com tecnologias como C#, ASP.NET, React, TypeScript e Firebird.
 
 🚀 Tecnologias que utilizo no dia a dia:
 <div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;"> 
